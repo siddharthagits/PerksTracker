@@ -204,7 +204,7 @@ const Dashboard = () => {
           <div>
             <p className="text-sm uppercase tracking-[0.35em] text-slate-500">Finance dashboard</p>
             <h1 className={`mt-3 text-3xl font-bold tracking-tight md:text-4xl ${theme === 'dark' ? 'text-white' : 'text-slate-950'}`}>
-              PerksTractor — fast, polished money tracking.
+              PerksTracker — fast, polished money tracking.
             </h1>
             <p className={`mt-3 max-w-2xl ${theme === 'dark' ? 'text-slate-400' : 'text-slate-600'}`}>
               Track every income and expense, keep history in browser storage, and see live Bitcoin price updates.
